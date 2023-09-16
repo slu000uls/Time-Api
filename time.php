@@ -31,4 +31,5 @@ $results[] = [
 ];
 $json = ['ok'=>true,'channel'=>'@devsgit','Writer '=>'Soheil | @slu000uls','results'=>$results];
 echo json_encode($json,448);
+//now you have api and you can use it on your project or ...
 ?>
